@@ -10,3 +10,8 @@ of somatic mutations per patient per gene, also the total count of mutations
 minus silent mutations.
 
 Options to compare old data against newly created data, process entire folders into one file, or run it on a single file.
+
+
+The main script is processSomaticMutation.py
+
+All others are supplement made for specialized tasks during the project, descriptions can be found at the start of each script.
